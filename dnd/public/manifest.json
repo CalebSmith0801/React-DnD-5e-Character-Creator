@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "DnD - Character Creator",
+  "name": "Dnd - 5e Character Creator",
   "icons": [
     {
       "src": "favicon.ico",

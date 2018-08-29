@@ -1,11 +1,10 @@
 directories:
   output: dist
   buildResources: assets
+appId: com.dnd
 files:
   - build/**/*
   - node_modules/**/*
-extraMetadata:
-  main: build/electron.js
-appId: com.dnd
-extends: react-cra
+electronDownload:
+  cache: 'C:/Users/caleb/Downloads'
 electronVersion: 2.0.8

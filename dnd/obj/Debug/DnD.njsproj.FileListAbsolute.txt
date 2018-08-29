@@ -1,0 +1,3 @@
+C:\Users\caleb\Desktop\Project\New folder (2)\dnd\obj\Debug\DnD.njsprojAssemblyReference.cache
+C:\Users\caleb\Desktop\Project\New folder (2)\dnd\obj\Debug\DnD.njsproj.CoreCompileInputs.cache
+C:\Users\caleb\Desktop\Project\New folder (2)\dnd\bin\Microsoft.NodejsTools.WebRole.dll
